@@ -1,0 +1,2 @@
+# pythonSeleniumWebdriverChrome
+Selenium Webdriver重新使用已打开的浏览器实例-Chrome版本
